@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" uploadOnCheckin="bbddb69a-96ed-4ad6-ad95-5caa4b94c54b">
+  <component name="PublishConfigData">
     <serverData>
       <paths name="tomcat">
         <serverdata>
@@ -10,6 +10,5 @@
         </serverdata>
       </paths>
     </serverData>
-    <option name="myUploadOnCheckinName" value="tomcat" />
   </component>
 </project>
